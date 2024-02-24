@@ -1,0 +1,15 @@
+
+git – clone
+git init
+add .
+commit,
+push, 
+pull, 
+status, 
+log, 
+reset, 
+branch, 
+checkout,
+ merge)
+
+
